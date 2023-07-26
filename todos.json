@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "title": "Go to the gym",
+      "completed": true
+    },
+    {
+      "title": "Finish work report",
+      "completed": false
+    },
+    {
+      "title": "Call mom",
+      "completed": false
+    },
+    {
+      "title": "Read a book",
+      "completed": true
+    },
+    {
+      "title": "Pay bills",
+      "completed": false
+    },
+    {
+      "title": "Clean the house",
+      "completed": true
+    },
+    {
+      "title": "Attend a meeting",
+      "completed": true
+    },
+    {
+      "title": "Walk the dog",
+      "completed": false
+    },
+    {
+      "title": "Study for exam",
+      "completed": false
+    }
+  ]
