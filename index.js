@@ -10,6 +10,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 const uri = process.env.MONGO_REMOTE;
 const dbName = "personal";
+export default app;
 
 // CORS
 app.use(
