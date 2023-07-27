@@ -38,7 +38,7 @@ async function connectToDatabase() {
 
 //get route
 //get all todos from the database
-app.get("/todos", async (req, res) => {
+app.get("/", async (req, res) => {
   try {
     const db = client.db(dbName);
     const todosCollection = db.collection("todos");
